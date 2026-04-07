@@ -30,7 +30,7 @@ const Footer = () => {
               Contact us
             </a>
             <a href="#" className="hover:text-white">
-              Provacy policy
+              Privacy policy
             </a>
           </ul>
         </div>
